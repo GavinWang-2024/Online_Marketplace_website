@@ -20,8 +20,8 @@ Run migrations:
 Create a superuser:
 `python manage.py createsuperuser`
 
-`Run the development server:`
-python manage.py runserver
+Run the development server:
+`python manage.py runserver`
 
 Usage
 
