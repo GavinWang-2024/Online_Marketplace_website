@@ -1,3 +1,10 @@
+<img width="965" alt="Screenshot 2024-06-23 at 7 19 25 PM" src="https://github.com/GavinWang-2024/Online_Marketplace_website/assets/169739616/37bb8312-648f-4bc0-876c-3b1bd03b9293">
+
+<img width="965" alt="Screenshot 2024-06-23 at 7 18 45 PM" src="https://github.com/GavinWang-2024/Online_Marketplace_website/assets/169739616/b53d0e9c-a03b-4321-b5c2-ad03484234a1">
+
+<img width="965" alt="Screenshot 2024-06-23 at 7 18 20 PM" src="https://github.com/GavinWang-2024/Online_Marketplace_website/assets/169739616/83183e4c-6214-4f26-9a89-5eaf4462eb01">
+
+
 # Online Marketplace Website
 
 
